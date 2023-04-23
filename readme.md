@@ -12,7 +12,8 @@ Some of the built-in functions in WinScript include:
 
 -    echo: Prints a message to the console.
 -    start: Starts a new process.
--    sudo: Starts a new process with elevated privileges.
+-    define: Define a variable with a value
+-    printvar: Prints a defined variable
 -    cmd: Executes a command.
 -    msgbox: Displays a message box.
 -    about: Displays information about the program.
@@ -29,8 +30,7 @@ to use the echo fucntion, use echo then type what you want to print
 to use the start fucntion, use start then type what you want to run
 ![image](https://user-images.githubusercontent.com/103849459/233812458-fba78d94-abe1-40fd-bbee-60c5061a9a24.png)
 
-to use the sudo fucntion, use sudo then type what you want to run with elevated privalges
-![image](https://user-images.githubusercontent.com/103849459/233812468-e327bb40-bb74-4f63-92c4-e4c1becbf4b0.png)
+
 
 to use the cmd fucntion, use cmd then type what you want to run with the command processor
 ![image](https://user-images.githubusercontent.com/103849459/233812477-f6c2f98f-f1d8-4e10-bc8e-80f460f01568.png)

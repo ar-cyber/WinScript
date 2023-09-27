@@ -1,6 +1,11 @@
+# Winscript has been discontinued, and has been replaced with ZivScript (https://github.com/realzvqle/ZivScript). Winscript for Python has been discontinued, check out SockyCatScript, a better version of Winscript for python (https://github.com/ar-cyber/SockyCatScript). 
+
+
 # Before you read, check out the original at https://github.com/realzvqle/WinScript.
 
-# WinScript
+# WinScript (archived)
+
+
 
 WinScript is a Scripting Language designed to simplify and automate common tasks in Windows environments. It is easy to learn and use, making it ideal for users with little to no programming experience. WinScript is based on C, but it has a simplified syntax that is easier to read and write.
 
